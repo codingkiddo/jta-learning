@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Sun Jan 23 14:00:01 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-017e-860e-6fdb-0000072af000 
+on database directory /Users/vinodkumar/Documents/Technologies/J2EE/j2ee-workspace/jta-learning/db1  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/Users/vinodkumar/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=/Users/vinodkumar/Documents/Technologies/J2EE/j2ee-workspace/jta-learning
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jan 23 14:00:03 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 0b5b0099-017e-860e-6fdb-0000072af000 
+on database directory /Users/vinodkumar/Documents/Technologies/J2EE/j2ee-workspace/jta-learning/db2  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/Users/vinodkumar/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=/Users/vinodkumar/Documents/Technologies/J2EE/j2ee-workspace/jta-learning
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
